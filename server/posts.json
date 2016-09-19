@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1, 
+      "author": {
+        "id": 1,
+        "name": "John Doe"
+      },
+      "title": "Literature",
+      "body": "She literature discovered increasing how diminution understood. Though and highly the enough county for man. Of it up he still court alone widow seems. Suspected he remainder rapturous my sweetness. All vanity regard sudden nor simple can. World mrs and vexed china since after often.",
+      "dateCreated": "2016-09-19"
+    },
+    {
+      "id": 2, 
+      "author": {
+        "id": 2,
+        "name": "Michael Gonzalez"
+      },
+      "title": "Breakfast",
+      "body": "Breakfast agreeable incommode departure it an. By ignorant at on wondered relation. Enough at tastes really so cousin am of. Extensive therefore supported by extremity of contented. Is pursuit compact demesne invited elderly be. View him she roof tell her case has sigh. Moreover is possible he admitted sociable concerns. By in cold no less been sent hard hill.",
+      "dateCreated": "2016-09-18"
+    },
+    {
+      "id": 3, 
+      "author": {
+        "id": 3,
+        "name": "Egor Semyonau"
+      },
+      "title": "Talent",
+      "body": "Of be talent me answer do relied. Mistress in on so laughing throwing endeavor occasion welcomed. Gravity sir brandon calling can. No years do widow house delay stand. Prospect six kindness use steepest new ask. High gone kind calm call as ever is. Introduced melancholy estimating motionless on up as do. Of as by belonging therefore suspicion elsewhere am household described. Domestic suitable bachelor for landlord fat.",
+      "dateCreated": "2016-09-18"
+    }
+  ]
+}

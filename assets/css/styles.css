@@ -1,0 +1,19 @@
+html, body {
+  margin: 0;
+  height: 100%;
+}
+.container {
+  display: -webkit-flex;
+  display: flex;
+  min-height: 100%;
+}
+.side-panel {
+  -webkit-flex: 2;
+  flex: 2;
+}
+.content {
+  padding: 10px;
+  -webkit-flex: 4;
+  flex: 4;
+  border: 1px solid lightgray;
+}
